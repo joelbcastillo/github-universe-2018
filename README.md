@@ -4,6 +4,8 @@
         - [Location](#location)
     - [Main Conference](#main-conference)
         - [Location](#location)
+        - [Keynotes](#keynotes)
+        - [Talks](#talks)
 
 
 ## Workshops
@@ -14,9 +16,14 @@
 > San Francisco, CA 94103
 
 ## Main Conference
-
 ### Location
 > [Palace of Fine Arts Theatre](https://goo.gl/maps/tUjrTjKLWn12)  
 > 3301 Lyon Street  
 > San Francisco, CA 94123
+
+
+### Keynotes
+- [Opening Keynote](#keynotes/opening_keynote.md)
+
+### Talks
 
